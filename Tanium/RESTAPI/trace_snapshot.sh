@@ -1,4 +1,4 @@
-# TANIUM REST API
+# TANIUM REST API Edited 
 ##################################
 ## STEP 1. BASIC CONFIGURATION
 
