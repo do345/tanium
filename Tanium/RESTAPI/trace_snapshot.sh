@@ -7,10 +7,7 @@
   USERNAME=taniumadmin
   PASSWORD=xksldna2@
   
-
   ENDPOINTIP=10.12.43.87
-
-
 #  ENDPOINTIP=10.10.151.117
 #  ENDPOINTIP=10.0.2.15 
 
@@ -119,7 +116,7 @@
 
     echo  "---------------------------------------------------"
 
-  done
+  done 
 
 
 
